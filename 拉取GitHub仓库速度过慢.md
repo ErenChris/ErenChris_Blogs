@@ -1,0 +1,1 @@
+先将GitHub项目克隆到Gitee，再clone到本地，然后再更改项目文件夹下的.git文件夹中的config文件中的URL，设置成GitHub的URL即可。在VSCode中，只需要打开项目文件夹即可。
