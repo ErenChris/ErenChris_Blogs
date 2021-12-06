@@ -22,7 +22,9 @@ The final danger is the least well appreciated: a slowdown in China, the world�
 If Omicron turns out to be more transmissible than the earlier Delta variant, it will make China’s strategy more difficult. Since this strain travels more easily, China will have to come down even harder on each outbreak in order to eradicate it, hurting growth and disrupting supply chains. Omicron may also make China’s exit from its zero-covid policy even trickier, because the wave of infections that will inevitably result from letting the virus rip could be larger, straining the economy and the health-care system. That is especially true given China’s low levels of infection-induced immunity and questions over how well its vaccines work.
 
 **Vexing variants and worrying weeks**
+
 It is not all gloom. The world will not see a re-run of the spring of 2020, with jaw-dropping drops in gdp. People, firms and governments have adapted to the virus, meaning that the link between gdp and restrictions on movement and behaviour is one-third of what it was, says Goldman Sachs. Some vaccine-makers expect fresh data to show that today’s jabs will still prevent the most severe cases of the disease. And, if they must, firms and governments will be able to roll out new vaccines and drugs some months into 2022. Even so Omicron—or, in the future, Pi, Rho or Sigma—threatens to lower growth and raise inflation. The world has just received a rude reminder that the virus’s path to becoming an endemic disease will not be smooth.
 
 **Dig deeper**
+
 All our stories relating to the pandemic and the vaccines can be found on our coronavirus hub. For subscribers only: to see how we design each week’s cover, sign up to our weekly Cover Story newsletter.
